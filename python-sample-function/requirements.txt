@@ -1,0 +1,5 @@
+# Function dependencies, for example:
+# package>=version
+
+--extra-index-url https://us-west1-python.pkg.dev/megan-testing-cicd/python-gcb-gcf/simple/
+python_sample
